@@ -15,6 +15,8 @@ I think **Gradient** would be a very useful technique for the major assignment, 
 
 The lerpColor(c1, c2, amt) function is useful for interpolating between two colors. It will find a third color to blend from color1 to color2, amt parameter specifies the amount to interpolate between the two values. In the example, the setGradient() function takes parameters for position (x, y), size (w, h), colors (c1, c2), and gradient axis (Y_AXIS or X_AXIS), and it uses a loop to create the gradient effect by interpolating colors between c1 and c2. The map() function is used to determine the interpolation point based on the current position.
 
-![Linear Gradient](readmeImages/Linear Gradient.png)
+![Linear Gradient](readmeImages/Linear%20Gradient.png)
 
 [Linear Gradient Example](https://p5js.org/examples/color-linear-gradient.html)
+
+[Vertical Gradient](https://happycoding.io/tutorials/p5js/for-loops/vertical-gradient)
